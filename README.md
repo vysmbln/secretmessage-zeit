@@ -7,7 +7,12 @@ the browser will automatically  get the info on that form and will try to submit
 Sice we dont have a backend server, we added the preventDefault to stop the default route/browser behavior to submit the form.
 To check if its working, on the live server, try to submit any text and make sure that the browser is not refreshing. Add console.log after trying to submit it.)
 
-4. encode Base64. 
+4. Add/ hide message
+
+5. deploy to zeit.co (npx now)
+
+live server trough zeit.co :
+https://secretmessage-4n0l1nkzy.now.sh/
 
 
 
